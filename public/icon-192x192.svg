@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+    <!-- Background Circle -->
+    <circle cx="96" cy="96" r="96" fill="#4CAF50" />
+
+    <!-- User Icon -->
+    <circle cx="60" cy="72" r="18" fill="#FFFFFF" />
+    <path d="M42 116c0-13.2 10.8-24 24-24s24 10.8 24 24v6H42v-6z" fill="#FFFFFF" />
+
+    <!-- Post Icon -->
+    <rect x="108" y="54" width="60" height="90" rx="4" fill="#FFFFFF" />
+    <line x1="112" y1="70" x2="156" y2="70" stroke="#4CAF50" stroke-width="4" />
+    <line x1="112" y1="94" x2="156" y2="94" stroke="#4CAF50" stroke-width="4" />
+    <line x1="112" y1="118" x2="144" y2="118" stroke="#4CAF50" stroke-width="4" />
+</svg>

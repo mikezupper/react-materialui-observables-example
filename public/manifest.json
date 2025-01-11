@@ -1,0 +1,26 @@
+{
+  "name": "Users and Posts App",
+  "short_name": "UsersPosts",
+  "description": "An app to manage users and posts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon-192x192.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
